@@ -1,6 +1,8 @@
 [submodule "trello"]
 	path = trello
 	url = https://github.com/lukas-muentinga/trello
+	ignore = all
 [submodule "excelutil"]
 	path = excelutil
 	url = https://github.com/lukas-muentinga/excelutil
+	ignore = all
