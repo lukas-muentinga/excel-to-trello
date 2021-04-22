@@ -1,0 +1,6 @@
+[submodule "trello"]
+	path = trello
+	url = https://github.com/lukas-muentinga/trello
+[submodule "excelutil"]
+	path = excelutil
+	url = https://github.com/lukas-muentinga/excelutil
